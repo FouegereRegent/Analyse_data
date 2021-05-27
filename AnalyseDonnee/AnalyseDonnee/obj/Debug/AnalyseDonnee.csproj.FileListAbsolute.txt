@@ -1,0 +1,10 @@
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\bin\Debug\AnalyseDonnee.exe.config
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\bin\Debug\AnalyseDonnee.exe
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\bin\Debug\AnalyseDonnee.pdb
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\obj\Debug\AnalyseDonnee.csprojAssemblyReference.cache
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\obj\Debug\AnalyseDonnee.Form1.resources
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\obj\Debug\AnalyseDonnee.Properties.Resources.resources
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\obj\Debug\AnalyseDonnee.csproj.GenerateResource.cache
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\obj\Debug\AnalyseDonnee.csproj.CoreCompileInputs.cache
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\obj\Debug\AnalyseDonnee.exe
+D:\Documents\Info\AnalyseDonnee\AnalyseDonnee\obj\Debug\AnalyseDonnee.pdb
